@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bankcard
+comment1.params=balance_amount\ card_id\ bank_account\ issuer_bank
+comment1.target=Bankcard(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getcard_id()
+comment3.params=
+comment3.target=java.lang.String\ getclient_name()
+comment4.params=
+comment4.target=java.lang.String\ getissuer_bank()
+comment5.params=
+comment5.target=java.lang.String\ getbank_account()
+comment6.params=
+comment6.target=int\ getbalance_amount()
+comment7.params=client_name
+comment7.target=void\ setclient_name(java.lang.String)
+comment8.params=balance_amount
+comment8.target=void\ setbalance_amount(int)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=CREATING\ INSTANCES\ METHOD\ NAMED\ DISPLAY\ IN\ WHICH\r\n\ \ \ \ WE\ ARE\ DISPLAYING\ OUTPUT\ AND\ USING\ IF\ else\ CONDITION\ FOR\ CLIENT\ NAME\r\n
+numComments=10
